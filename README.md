@@ -29,7 +29,7 @@ A modern Point of Sale (POS) system with billing and inventory management, integ
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sivaprasanth2221/SmartBill-POS.git
 cd SmartBill-POS
 ```
 
