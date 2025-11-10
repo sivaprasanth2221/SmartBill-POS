@@ -529,7 +529,7 @@ const BillingSoftware = () => {
         <div className="max-w-7xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <h1 className="text-3xl font-bold text-indigo-600 flex items-center gap-2">
-              <ShoppingCart className="w-8 h-8" />
+              <img src='favicon.png' alt='Logo' className="w-8 h-8" />
               {storeName}
             </h1>
             <div className="flex gap-2 print:hidden">
