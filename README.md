@@ -4,12 +4,12 @@ A modern Point of Sale (POS) system with billing and inventory management, integ
 
 ## Features
 
-- 🛒 **Point of Sale (POS)** - Quick checkout with product selection
-- 📦 **Inventory Management** - Add, edit, delete products with stock tracking
-- 📊 **Sales Reports** - View sales reports with date filters
-- 💳 **Paytm Integration** - Secure payment processing via Paytm gateway
-- 💾 **Local Storage** - All data stored locally in browser
-- 📱 **Responsive Design** - Works on desktop and mobile devices
+- **Point of Sale (POS)** - Quick checkout with product selection
+- **Inventory Management** - Add, edit, delete products with stock tracking
+- **Sales Reports** - View sales reports with date filters
+- **Paytm Integration** - Secure payment processing via Paytm gateway
+- **Local Storage** - All data stored locally in browser
+- **Responsive Design** - Works on desktop and mobile devices
 
 ## Tech Stack
 
@@ -29,7 +29,7 @@ A modern Point of Sale (POS) system with billing and inventory management, integ
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sivaprasanth2221/SmartBill-POS.git
 cd SmartBill-POS
 ```
 
